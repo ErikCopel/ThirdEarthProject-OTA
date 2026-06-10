@@ -1,5 +1,5 @@
 {
-    "version": "v0.2.5",
+    "version": "v0.2.6",
     "firmware_url": "https://raw.githubusercontent.com/ErikCopel/ThirdEarthProject-OTA/main/ThirdEarthProject.bin",
-    "sha256": "7c728737758c01ad5ec65209d8ad6066787ab849c670ea13447ba6753759e9b5"
+    "sha256": "b789dd8037839bf7cf0b962d7f287249181e77fe619871a83134a3a14a6594fc"
 }
