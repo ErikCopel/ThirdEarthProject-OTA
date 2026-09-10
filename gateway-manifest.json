@@ -1,5 +1,5 @@
 {
-    "version": "v0.4.3",
+    "version": "v0.4.4",
     "firmware_url": "https://raw.githubusercontent.com/ErikCopel/ThirdEarthProject-OTA/main/gateway-firmware.bin",
-    "sha256": "fc7d960843fd5da5e3b5051c92f1180cd2c2b68784f8e802ae778a125f7c30aa"
+    "sha256": "232d6d6ba183743d71b5405a56140776a2a58507359864989b55375a0f67d9b3"
 }
