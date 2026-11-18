@@ -1,0 +1,5 @@
+{
+    "version": "v1.0.2",
+    "firmware_url": "https://raw.githubusercontent.com/ErikCopel/ThirdEarthProject-OTA/main/esp32-meter-firmware.bin",
+    "sha256": "0dc042d3a6423484125232c6d695adebd4bb02b0da1714e6b4fbbf71410c9b3a"
+}
